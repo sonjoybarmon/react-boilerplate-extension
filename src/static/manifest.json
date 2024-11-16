@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "React Boilerplate",
+  "description": "React Boilerplate for JavaScript developers",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "/logo_rounded.png",
+    "48": "/logo_rounded.png",
+    "128": "/logo_rounded.png"
+  },
+  "action": {
+    "default_title": "Click me!",
+    "default_popup": "popup.html"
+  }
+}
